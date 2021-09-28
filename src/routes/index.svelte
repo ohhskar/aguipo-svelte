@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script lang="ts">
+	import Header from '$src/widgets/@home/header.svelte';
+	import About from '$src/widgets/@home/about.svelte';
+	import Collective from '$src/widgets/@home/collective.svelte';
+</script>
+
+<Header />
+<About />
+<Collective />
