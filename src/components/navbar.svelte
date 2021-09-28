@@ -1,10 +1,11 @@
 <script lang="ts">
 	let scrollY: number = 0;
+	let innerHeight: number = 0;
 </script>
 
 <nav
 	class="fixed w-full bg-ag-white py-8 transition-opacity opacity-0"
-	class:opacity-100={scrollY > window.innerHeight * 0.75}
+	class:opacity-100={scrollY > innerHeight * 0.75}
 >
 	<div class="container mx-auto flex items-center justify-between">
 		<a href="/">
@@ -28,7 +29,7 @@
 	</div>
 </nav>
 
-<svelte:window bind:scrollY />
+<svelte:window bind:scrollY bind:innerHeight />
 
 <style lang="postcss">
 	.link {
