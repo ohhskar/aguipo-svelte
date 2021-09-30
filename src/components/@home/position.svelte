@@ -13,7 +13,7 @@
 >
 	{position}
 </h4>
-<div class="grid grid-cols-3 gap-x-8 gap-y-6 mb-12">
+<div class="grid grid-cols-2 md:grid-cols-3 gap-x-8 gap-y-6 mb-12">
 	{#each officers as officer (officer.name)}
 		<div>
 			<h5

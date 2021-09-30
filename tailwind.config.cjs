@@ -4,6 +4,10 @@ const config = {
 	mode: 'jit',
 	purge: ['./src/**/*.{html,js,svelte,ts}'],
 	theme: {
+		container: {
+			center: true,
+			padding: '2rem'
+		},
 		extend: {
 			container: {
 				screens: {
@@ -27,6 +31,10 @@ const config = {
 					offwhite: '#F1EDED',
 					white: '#FFFFFF'
 				}
+			},
+			listStyleType: {
+				none: 'none',
+				alpha: 'lower-alpha'
 			}
 		}
 	},

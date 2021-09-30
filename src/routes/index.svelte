@@ -4,6 +4,10 @@
 	import Collective from '$src/widgets/@home/collective.svelte';
 </script>
 
+<svelte:head>
+	<title>Aguipo Global South Journal</title>
+</svelte:head>
+
 <Header />
 <About />
 <Collective />

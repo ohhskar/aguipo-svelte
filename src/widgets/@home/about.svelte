@@ -1,4 +1,4 @@
-<section class="container mx-auto">
+<section class="container">
 	<h2
 		class="font-merriweather
            text-4xl text-ag-black
@@ -6,7 +6,7 @@
 	>
 		About the Journal
 	</h2>
-	<hr class="w-full h-px bg-ag-black mb-16" />
+	<hr class="w-full h-0.5 bg-ag-black mb-16" />
 	<p
 		class="font-source
             text-lg text-ag-grey

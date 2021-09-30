@@ -5,4 +5,4 @@
 >
 	<slot>Heading Here</slot>
 </h3>
-<hr class="w-1/4 h-px bg-ag-black mb-16" />
+<hr class="w-1/4 h-0.5 bg-ag-black mb-16" />

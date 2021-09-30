@@ -91,7 +91,7 @@
 	];
 </script>
 
-<section class="container mx-auto mb-32">
+<section class="container mb-32">
 	<H3>Editorial Collective</H3>
 	{#each positions as position (position.position)}
 		<Position {...position} />
