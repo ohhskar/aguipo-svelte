@@ -60,15 +60,15 @@
 			officers: [
 				{
 					name: 'Epifanio San Juan Jr.',
-					affiliation: 'University of Connecticut, retired'
+					affiliation: 'retired, University of Connecticut, USA'
 				},
 				{
 					name: 'Geoffrey Pleyers',
-					affiliation: 'Université Catholique de Louvain'
+					affiliation: 'Université Catholique de Louvain, Belgium'
 				},
 				{
 					name: 'Sabelo J. Ndlovu-Gatsheni',
-					affiliation: 'University of Bayreuth'
+					affiliation: 'University of Bayreuth, Germany'
 				},
 				{
 					name: 'Salimah Valiani',
@@ -76,15 +76,23 @@
 				},
 				{
 					name: 'Ramon Guillermo',
-					affiliation: 'University of the Philippines Diliman'
+					affiliation: 'University of the Philippines Diliman, Philippines'
 				},
 				{
 					name: 'Tamari Kitossa',
-					affiliation: 'Brock University'
+					affiliation: 'Brock University, Canada'
 				},
 				{
 					name: 'Leon Moosavi',
-					affiliation: 'University of Liverpool'
+					affiliation: 'University of Liverpool, UK'
+				},
+				{
+					name: 'Peter Hudis',
+					affiliation: 'Oakton College, USA'
+				},
+				{
+					name: 'Joshua Moufawad-Paul',
+					affiliation: 'York University, Canada'
 				}
 			]
 		}
