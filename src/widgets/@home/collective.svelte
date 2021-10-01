@@ -24,7 +24,7 @@
 					affiliation: 'University of the Philippines Cebu'
 				},
 				{
-					name: 'Caroline Schöpf ',
+					name: 'Caroline Schöpf',
 					affiliation: 'Max Weber Foundation and Hong Kong Baptist University'
 				},
 				{
@@ -34,6 +34,10 @@
 				{
 					name: 'Matthew Chew',
 					affiliation: 'Hong Kong Baptist University'
+				},
+				{
+					name: 'Jason Baguia',
+					affiliation: 'Catholic University of Portugal'
 				}
 			]
 		},
@@ -97,6 +101,10 @@
 				{
 					name: 'Breno Bringel',
 					affiliation: 'State University of Rio de Janeiro, Brazil'
+				},
+				{
+					name: 'Daniel Franklin Pilario',
+					affiliation: 'St. John’s University, USA'
 				}
 			]
 		}
