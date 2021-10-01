@@ -56,7 +56,7 @@
 			]
 		},
 		{
-			position: 'International Adivisory Committee',
+			position: 'International Advisory Committee',
 			officers: [
 				{
 					name: 'Epifanio San Juan Jr.',
@@ -93,6 +93,10 @@
 				{
 					name: 'Joshua Moufawad-Paul',
 					affiliation: 'York University, Canada'
+				},
+				{
+					name: 'Breno Bringel',
+					affiliation: 'State University of Rio de Janeiro, Brazil'
 				}
 			]
 		}
