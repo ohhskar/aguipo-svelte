@@ -4,6 +4,9 @@
 </script>
 
 <svelte:head>
+	<meta itemprop="name" content="Announcements | Aguipo Global South Journal" />
+	<meta property="og:title" content="Announcements | Aguipo Global South Journal" />
+	<meta name="twitter:title" content="Announcements | Aguipo Global South Journal" />
 	<title>Announcements | Aguipo Global South Journal</title>
 </svelte:head>
 
