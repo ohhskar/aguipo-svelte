@@ -12,7 +12,7 @@
             text-lg text-ag-grey
             mb-5"
 	>
-		The Aguipo Global South Journal (AGSJ) for the Social Sciences and the Humanities is an academic
+		The Aguipo Global South Journal (AGSJ) is an academic
 		journal managed by the ALL UP Academic Employees Union (AUPAEU) of the University of the
 		Philippines Cebu chapter. It publishes articles that advance theoretical, empirical, and
 		methodological studies focusing on but not limited to decolonization, destratification, and

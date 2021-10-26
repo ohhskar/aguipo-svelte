@@ -36,7 +36,7 @@
 				 items-center justify-between"
 >
 	<img
-		alt="Aguipo Global South Journal (AGSJ) for the Social Sciences and Humanities"
+		alt="Aguipo Global South Journal (AGSJ)"
 		class="mb-6 md:mb-0"
 		src="/images/logo-full.svg"
 	/>

@@ -31,7 +31,7 @@
 	<div class="container flex items-center justify-between">
 		<a href="/">
 			<img
-				alt="Aguipo Global South Journal (AGSJ) for the Social Sciences and Humanities"
+				alt="Aguipo Global South Journal (AGSJ)"
 				class="h-8"
 				src="/images/logo-full.svg"
 			/>

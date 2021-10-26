@@ -21,7 +21,7 @@
 	<meta itemprop="name" content="Aguipo Global South Journal" />
 	<meta
 		itemprop="description"
-		content="The Aguipo Global South Journal (AGSJ) for the Social Sciences and the Humanities publishes articles that advance theoretical, empirical, and methodological studies "
+		content="The Aguipo Global South Journal (AGSJ) publishes articles that advance theoretical, empirical, and methodological studies "
 	/>
 	<meta itemprop="image" content="https://aguipoglobalsouthjournal.com/images/seo.png" />
 
@@ -31,7 +31,7 @@
 	<meta name="twitter:title" content="Aguipo Global South Journal" />
 	<meta
 		name="twitter:description"
-		content="The Aguipo Global South Journal (AGSJ) for the Social Sciences and the Humanities publishes articles that advance theoretical, empirical, and methodological studies "
+		content="The Aguipo Global South Journal (AGSJ) publishes articles that advance theoretical, empirical, and methodological studies "
 	/>
 	<meta name="twitter:image:src" content="https://aguipoglobalsouthjournal.com/images/seo.png" />
 
@@ -42,7 +42,7 @@
 	<meta property="og:image" content="https://aguipoglobalsouthjournal.com/images/seo.png" />
 	<meta
 		property="og:description"
-		content="The Aguipo Global South Journal (AGSJ) for the Social Sciences and the Humanities publishes articles that advance theoretical, empirical, and methodological studies "
+		content="The Aguipo Global South Journal (AGSJ) publishes articles that advance theoretical, empirical, and methodological studies "
 	/>
 	<meta property="og:site_name" content="Aguipo Global South Journal" />
 </svelte:head>

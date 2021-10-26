@@ -21,7 +21,7 @@
              md:leading-normal
              mb-12"
 		>
-			Aguipo Global South Journal (AGSJ) for the Social Sciences and Humanities
+			Aguipo Global South Journal (AGSJ)
 		</h1>
 		<div class="flex flex-col md:flex-row items-start md:items-center">
 			<div class="mb-8 md:mr-8 md:mb-0">
