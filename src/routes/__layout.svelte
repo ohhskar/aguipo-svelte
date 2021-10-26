@@ -23,7 +23,7 @@
 		itemprop="description"
 		content="The Aguipo Global South Journal (AGSJ) publishes articles that advance theoretical, empirical, and methodological studies "
 	/>
-	<meta itemprop="image" content="https://aguipoglobalsouthjournal.com/images/seo.png" />
+	<meta itemprop="image" content="https://aguipoglobalsouthjournal.com/images/seo-new.png" />
 
 	<!-- Twitter Card data -->
 	<meta name="twitter:card" content="summary_large_image" />
@@ -33,13 +33,16 @@
 		name="twitter:description"
 		content="The Aguipo Global South Journal (AGSJ) publishes articles that advance theoretical, empirical, and methodological studies "
 	/>
-	<meta name="twitter:image:src" content="https://aguipoglobalsouthjournal.com/images/seo.png" />
+	<meta
+		name="twitter:image:src"
+		content="https://aguipoglobalsouthjournal.com/images/seo-new.png"
+	/>
 
 	<!-- Open Graph data -->
 	<meta property="og:title" content="Aguipo Global South Journal" />
 	<meta property="og:type" content="website" />
 	<meta property="og:url" content="http://www.abstract.ph/" />
-	<meta property="og:image" content="https://aguipoglobalsouthjournal.com/images/seo.png" />
+	<meta property="og:image" content="https://aguipoglobalsouthjournal.com/images/seo-new.png" />
 	<meta
 		property="og:description"
 		content="The Aguipo Global South Journal (AGSJ) publishes articles that advance theoretical, empirical, and methodological studies "
