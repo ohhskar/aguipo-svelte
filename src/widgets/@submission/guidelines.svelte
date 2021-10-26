@@ -5,9 +5,9 @@
 <section class="guidelines">
 	<H3>Author Guidelines</H3>
 	<p class="guidelines_p">
-		AGSJ is a peer-reviewed journal of the social sciences and the humanities. All articles will be
-		assessed by the editorial collective before being reviewed by at least two of the editorial
-		consultants.
+		AGSJ is a peer-reviewed journal that seeks to publish the most original contributions in the
+		fields of Global South and Decolonial studies. All articles will be assessed by the editorial
+		collective before being reviewed by at least two of the editorial consultants.
 	</p>
 	<p class="guidelines_p">
 		AGSJ accepts contributions from scholars, academics, educators, and activists that analyze
