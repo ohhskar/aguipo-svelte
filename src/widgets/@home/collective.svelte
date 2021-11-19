@@ -38,6 +38,10 @@
 				{
 					name: 'Jason Baguia',
 					affiliation: 'Catholic University of Portugal'
+				},
+				{
+					name: 'Hadje Sadje',
+					affiliation: 'Foundation Academy of Amsterdam'
 				}
 			]
 		},
@@ -105,6 +109,14 @@
 				{
 					name: 'Daniel Franklin Pilario',
 					affiliation: 'St. John’s University, USA'
+				},
+				{
+					name: 'Syed Farid Alatas',
+					affiliation: 'National University of Singapore, Singapore'
+				},
+				{
+					name: 'Charlie Samuya Veric',
+					affiliation: 'Ateneo de Manila University, Manila'
 				}
 			]
 		}
