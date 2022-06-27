@@ -1,5 +1,4 @@
 const defaultTheme = require('tailwindcss/defaultTheme');
-console.log(defaultTheme);
 
 const config = {
 	mode: 'jit',

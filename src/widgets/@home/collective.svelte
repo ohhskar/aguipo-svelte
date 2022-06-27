@@ -2,7 +2,7 @@
 	import H3 from '$src/components/h3.svelte';
 	import Position from '$src/components/@home/position.svelte';
 
-	let positions = [
+	const positions = [
 		{
 			position: 'Editors-in-Chief',
 			officers: [

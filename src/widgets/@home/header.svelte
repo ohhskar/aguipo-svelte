@@ -25,7 +25,7 @@
 		</h1>
 		<div class="flex flex-col md:flex-row items-start md:items-center">
 			<div class="mb-8 md:mr-8 md:mb-0">
-				<Button variation="primary" on:click={handleClick}>Learn More</Button>
+				<Button variation="primary" href="/volumes/one">Read Volume 1</Button>
 			</div>
 			<Button href="/submission" variation="text">View Submission Guidelines</Button>
 		</div>
