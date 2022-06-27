@@ -55,11 +55,33 @@
 			]
 		},
 		{
-			position: 'Copy Editor',
+			position: 'Copy Editors',
 			officers: [
 				{
 					name: 'Francis Luis Torres',
 					affiliation: 'National University of Singapore'
+				},
+				{
+					name: 'Jay Nathan Jore',
+					affiliation: 'University of the Philippines Cebu'
+				}
+			]
+		},
+		{
+			position: 'Proofreader',
+			officers: [
+				{
+					name: 'Brynch Bonachita',
+					affiliation: 'University of San Carlos'
+				}
+			]
+		},
+		{
+			position: 'Art Editor',
+			officers: [
+				{
+					name: 'Vincent Pepito',
+					affiliation: 'University of the Philippines Cebu'
 				}
 			]
 		},
@@ -117,6 +139,10 @@
 				{
 					name: 'Charlie Samuya Veric',
 					affiliation: 'Ateneo de Manila University, Manila'
+				},
+				{
+					name: 'Seongjin Jeong',
+					affiliation: 'Gyeongsang National University, South Korea'
 				}
 			]
 		}
