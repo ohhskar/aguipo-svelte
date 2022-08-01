@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Header from '$src/components/header.svelte';
-	import Guidelines from '$src/widgets/@announcements/guidelines.svelte';
+	import Call from '$src/widgets/@announcements/call.svelte';
 </script>
 
 <svelte:head>
@@ -11,4 +11,4 @@
 </svelte:head>
 
 <Header background="/images/submission/header.jpg" title="Announcements" />
-<Guidelines />
+<Call />
