@@ -41,9 +41,9 @@
 			Union Building, University of the Philippines Cebu, Gorordo Avenue, Lahug, Cebu City 6000,
 			Philippines
 		</p>
-	<p class="published hidden md:block">
-		© Aguipo {new Date().getFullYear()} — All rights reserved.
-	</p>
+		<p class="published hidden md:block">
+			© Aguipo {new Date().getFullYear()} — All rights reserved.
+		</p>
 	</div>
 	<div class="flex flex-col gap-2 items-start md:mt-20">
 		<a class="a" href="https://aguipoglobalsouthjournal.com" target="_blank" rel="noreferrer"

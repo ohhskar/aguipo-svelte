@@ -13,15 +13,15 @@
             mb-5"
 	>
 		The Aguipo Global South Journal (AGSJ) is an open access academic online journal managed by the
-		ALL UP Academic Employees Union (AUPAEU) of the University of the Philippines Cebu chapter. It
-		publishes articles that advance theoretical, empirical, and methodological studies focusing on
-		but not limited to decolonial scholarship, destratification, democratization of social knowledge
-		production, and social emancipation vis-à-vis the lingering effects of (neo)colonialism. The
-		journal encourages submissions from Filipino and Global Southern scholars in the university and
-		civil society organizations and other institutions that discuss conventional scholarship,
-		propose novel ways of understanding current social concerns, and foster conversations across
-		disciplines. All manuscripts are double-blind peer reviewed. Likewise, AGSJ publishes book
-		reviews, reports, interviews, and commissioned commentaries.
+		ALL UP Academic Employees Union (AUPAEU) of the University of the Philippines Cebu chapter,
+		published every October. It publishes articles that advance theoretical, empirical, and
+		methodological studies focusing on but not limited to decolonial scholarship, destratification,
+		democratization of social knowledge production, and social emancipation vis-à-vis the lingering
+		effects of (neo)colonialism. The journal encourages submissions from Filipino and Global
+		Southern scholars in the university and civil society organizations and other institutions that
+		discuss conventional scholarship, propose novel ways of understanding current social concerns,
+		and foster conversations across disciplines. All manuscripts are double-blind peer reviewed.
+		Likewise, AGSJ publishes book reviews, reports, interviews, and commissioned commentaries.
 	</p>
 
 	<p

@@ -29,7 +29,7 @@
 		@apply w-full mb-24;
 
 		height: 80vh;
-		background: linear-gradient(rgba(0, 0, 0, 0.40), rgba(0, 0, 0, 0.60)),
+		background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
 			url('/images/home/hero-2.jpg');
 		background-size: cover;
 		background-position: 75% 40%;

@@ -63,7 +63,7 @@
       bg-transparent
       hover:text-ag-primary
       focus:text-ag-primary;
-  }
+	}
 
 	.text-white {
 		@apply text-ag-white
