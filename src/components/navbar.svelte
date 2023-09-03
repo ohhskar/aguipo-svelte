@@ -49,11 +49,21 @@
 </script>
 
 <nav class="fixed w-full bg-ag-white py-8">
-	<div class="container flex items-center justify-between">
+	<div class="max-w-screen-lg px-8 mx-auto flex items-center justify-between">
 		<a href="/">
 			<img alt="Aguipo Global South Journal (AGSJ)" class="h-8" src="/images/logo-full.svg" />
 		</a>
-		<button class="w-6 h-3 flex flex-col justify-between" on:click={() => (showMobile = true)}>
+		<div class="hidden md:flex gap-4 justify-end items-center">
+			{#each pages as { title, link } (link)}
+				<a class="link text-ag-black" class:text-ag-primary={currentPage === link} href={link}
+					>{title}</a
+				>
+			{/each}
+		</div>
+		<button
+			class="w-6 h-3 md:hidden flex flex-col justify-between"
+			on:click={() => (showMobile = true)}
+		>
 			<hr class="w-full h-0.5 bg-ag-black border-none" />
 			<hr class="w-full h-0.5 bg-ag-black border-none" />
 			<hr class="w-full h-0.5 bg-ag-black border-none" />
@@ -110,7 +120,8 @@
 	.link {
 		@apply block
      font-merriweather
-     text-sm
+      text-base
+      md:text-xs
      transform-gpu
      transition
      hover:text-ag-primary
