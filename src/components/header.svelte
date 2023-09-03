@@ -13,9 +13,10 @@
 	.header {
 		@apply w-full
       bg-cover
-      mb-32;
+      mb-32
+		  pt-24;
 
-		height: 70vh;
+		height: 40vh;
 		background-image: var(--bg-image);
 	}
 </style>

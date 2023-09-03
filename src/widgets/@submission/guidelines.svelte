@@ -3,106 +3,99 @@
 </script>
 
 <section class="guidelines">
-	<H3>Author Guidelines</H3>
+	<H3>Instructions for authors</H3>
 	<p class="guidelines_p">
-		AGSJ is a peer-reviewed journal that seeks to publish the most original contributions in the
-		fields of Global South and Decolonial studies. All articles will be assessed by the editorial
-		collective before being reviewed by at least two of the editorial consultants.
+		All articles will go through an initial review of a member of the editorial collective before
+		being forwarded to at least two external and expert anonymous reviewers.
 	</p>
-	<p class="guidelines_p">
-		AGSJ accepts contributions from scholars, academics, educators, and activists that analyze
-		Global South issues from the perspectives of sociology, psychology, anthropology, philosophy,
-		political science, gender studies, history, literature, political economy, communication
-		studies, theology, and other related fields. Undergraduate and graduate students are encouraged
-		to submit to the journal.
-	</p>
-	<p class="guidelines_p">
-		As a journal for the Global South, Aguipo accepts contributions that theorize local issues using
-		local languages, especially Bisaya and Filipino.
-	</p>
-</section>
 
-<section class="guidelines">
-	<H3>Submission Preparation List</H3>
 	<p class="guidelines_p">
 		For efficiency in the review process, authors should check whether their submissions adhere to
 		the following submission guidelines.
 	</p>
+
 	<ol class="list-alpha pl-4 ml-6">
 		<li class="guidelines_li">
-			The manuscript has not been previously published nor has it been under review in another
+			The manuscript has not been previously published nor is it currently under review in another
 			journal for publication.
 		</li>
+
 		<li class="guidelines_li">
 			For articles, the length of the manuscript should be at least 5,000 words but should not
 			exceed 8,000 words including footnotes and bibliography; for reviews, reports, and
 			commentaries, the length of the manuscript should be at least 1,000 words but should not
 			exceed 3,000 words.
 		</li>
-		<li class="guidelines_li">The file should be in Microsoft Office or Open Office format.</li>
+
+		<li class="guidelines_li">
+			The file should be in Microsoft Office, Open Office, or any plain text format.
+		</li>
+
 		<li class="guidelines_li">
 			The manuscript should follow the
+
 			<a
-				href="https://www.chicagomanualofstyle.org/book/ed17/frontmatter/toc.html"
+				href="https://www.chicagomanualofstyle.org/tools_citationguide/citation-guide-2.html"
 				class="guidelines_a"
 			>
 				Chicago Manual of Style
-			</a> with the author-date citation.
+			</a>
+			with the author-date citation. All bibliographic entries should follow the title case (Pook at
+			Paninindigan: Kritika ng Pantayong Pananaw) instead of the sentence case (Pook at paninindigan:
+			Kritika ng pantayon pananaw).
 		</li>
+
 		<li class="guidelines_li">
-			An abstract of no more than 250 words and a set of 7 keywords should accompany the manuscript.
+			An abstract of no more than 250 words and a set of 5-7 keywords should accompany the
+			manuscript.
 		</li>
+
 		<li class="guidelines_li">
 			The manuscript should be prepared for blind review and should not contain the author’s or
-			authors’ name/s and identity/identities.
+			authors’ name/s and identity/identities. A separate document entitled Title Page should be
+			attached along with the manuscript. This should contain the name/s of the author/s,
+			institutional affiliation, and biographical note/s.
+		</li>
+
+		<li class="guidelines_li">
+			All manuscripts should be submitted through the journal’s email
+			<a href="mailto:aguipoglobalsouthjournal@gmail.com" class="guidelines_a">
+				aguipoglobalsouthjournal@gmail.com
+			</a>.
 		</li>
 	</ol>
 </section>
 
 <section class="guidelines">
-	<H3>Rules for publication</H3>
+	<H3>Editorial Process</H3>
 	<p class="guidelines_p">
 		For a smooth and fast process of publication, the following reminders should be diligently
 		considered by the authors.
 	</p>
 	<ol class="list-alpha pl-4 ml-6">
 		<li class="guidelines_li">
-			All manuscripts should be submitted through the email (<a
-				href="mailto:aguipoglobalsouthjournal@gmail.com"
-				class="guidelines_a"
-			>
-				aguipoglobalsouthjournal@gmail.com
-			</a>). In the subject heading, indicate whether it is an article, report, review, or
-			commentary submission and your family name (e.g., article submission – De la Cruz). In the
-			body of your email, include the following: a cover letter, complete name, institutional
-			affiliation, official email address, and the title of your submission.
+			Immediately after a manuscript is received, it will be reviewed by a member of the editorial
+			collective to assess its quality and to check if it fits well to the aims and scope of the
+			journal. Upon initial review, the manuscript will either be immediately rejected or forwarded
+			for the next stage of blind review. The blind review process will take one to two months.
 		</li>
-		<li class="guidelines_li">
-			Immediately after a manuscript is received by the editorial collective, an initial review
-			process will immediately begin. The initial review process will be done by the
-			editors-in-chief to assess the paper’s worthiness for the blind review process. The blind
-			review process shall take one to two months. The editors-in-chief have the prerogative of
-			either accepting or rejecting submitted manuscripts, both in the initial and in the blind
-			review processes.
-		</li>
-		<li class="guidelines_li">
-			Authors of accepted manuscripts are given two months to work on the revisions as suggested by
-			the reviewers. Failure to comply within the said duration means the non-inclusion of the
-			article in the forthcoming issue. However, the article could still be considered for
-			publication in the next issue should the author finally comply with the needed revisions and
-			the editors deem the manuscript still of significance.
-		</li>
-		<li class="guidelines_li">Aguipo currently publishes annually, every 15th day of April.</li>
-	</ol>
-</section>
 
-<section class="guidelines">
-	<H3>Copyright Notice</H3>
-	<p class="guidelines_p">
-		Aguipo supports the Open Access Movement. The copyright published in the journal remains in the
-		author. Republications of a particular article may be allowed provided that Aguipo is
-		acknowledged as the original publisher.
-	</p>
+		<li class="guidelines_li">
+			The editor-in-chief will evaluate the reports of the reviewers. The editor-in-chief will
+			decide whether the manuscript will be accepted without revisions, accepted pending minor
+			revisions, accepted pending major revisions, or rejected.
+		</li>
+
+		<li class="guidelines_li">
+			Authors of accepted manuscripts are given a maximum of two months to work on the revisions as
+			suggested by the reviewers. Failure to comply within the said duration means the non-inclusion
+			of the article in the forthcoming issue. However, the article could still be considered for
+			publication in the next issue should the author finally comply with the needed revisions and
+			the editor-in-chief deems the manuscript still of significance.
+		</li>
+
+		<li class="guidelines_li">The AGSJ currently publishes annually, every October.</li>
+	</ol>
 </section>
 
 <style lang="postcss">

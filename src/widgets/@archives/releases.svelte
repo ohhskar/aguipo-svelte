@@ -11,7 +11,7 @@
 </script>
 
 <section class="container mb-32">
-	<H3>Releases</H3>
+	<H3>Issues</H3>
 	{#each releases as release}
 		<Release {...release} />
 	{/each}

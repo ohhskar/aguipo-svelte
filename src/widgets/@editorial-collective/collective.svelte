@@ -1,17 +1,12 @@
 <script lang="ts">
-	import H3 from '$src/components/h3.svelte';
-	import Position from '$src/components/@home/position.svelte';
+	import Position from '$src/components/@editorial-collective/position.svelte';
 
 	const positions = [
 		{
-			position: 'Editors-in-Chief',
+			position: 'Editor-in-Chief',
 			officers: [
 				{
 					name: 'Regletto Aldrich Imbong',
-					affiliation: 'University of the Philippines Cebu'
-				},
-				{
-					name: 'Ian Vincent Manticajon',
 					affiliation: 'University of the Philippines Cebu'
 				}
 			]
@@ -19,6 +14,10 @@
 		{
 			position: 'Associate Editors',
 			officers: [
+				{
+					name: 'Ian Vincent Manticajon',
+					affiliation: 'University of the Philippines Cebu'
+				},
 				{
 					name: 'Phoebe Zoe Maria Sanchez',
 					affiliation: 'University of the Philippines Cebu'
@@ -64,12 +63,7 @@
 				{
 					name: 'Jay Nathan Jore',
 					affiliation: 'University of the Philippines Cebu'
-				}
-			]
-		},
-		{
-			position: 'Proofreader',
-			officers: [
+				},
 				{
 					name: 'Brynch Bonachita',
 					affiliation: 'University of San Carlos'
@@ -143,6 +137,22 @@
 				{
 					name: 'Seongjin Jeong',
 					affiliation: 'Gyeongsang National University, South Korea'
+				},
+				{
+					name: 'Martin Slama',
+					affiliation: 'Austrian Academy of Sciences, Austria'
+				},
+				{
+					name: 'Bula Bhadra',
+					affiliation: 'Sister Nivedita University; retired, University of Calcutta, India'
+				},
+				{
+					name: 'Kaira Zoe Alburo Cañete',
+					affiliation: 'Erasmus University Rotterdam, The Netherlands'
+				},
+				{
+					name: 'Stéphane Dufoix',
+					affiliation: 'Université Paris Nanterre; Institut Universitaire de France, France'
 				}
 			]
 		}
@@ -150,7 +160,6 @@
 </script>
 
 <section class="container mb-32">
-	<H3>Editorial Collective</H3>
 	{#each positions as position (position.position)}
 		<Position {...position} />
 	{/each}

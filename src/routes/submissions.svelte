@@ -10,5 +10,5 @@
 	<title>Submission Guidelines | Aguipo Global South Journal</title>
 </svelte:head>
 
-<Header background="/images/submission/header.jpg" title="Submission Guidelines" />
+<Header background="/images/submission/header.jpg" title="Submissions" />
 <Guidelines />

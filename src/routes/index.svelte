@@ -1,8 +1,7 @@
 <script lang="ts">
 	import Header from '$src/widgets/@home/header.svelte';
 	import About from '$src/widgets/@home/about.svelte';
- import Releases from '$src/widgets/@home/releases.svelte';
-	import Collective from '$src/widgets/@home/collective.svelte';
+	import AimsAndScope from '$src/widgets/@home/aims-and-scope.svelte';
 </script>
 
 <svelte:head>
@@ -14,5 +13,4 @@
 
 <Header />
 <About />
-<Releases />
-<Collective />
+<AimsAndScope />
