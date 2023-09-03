@@ -71,10 +71,14 @@
 			]
 		},
 		{
-			position: 'Art Editor',
+			position: 'Art Editors',
 			officers: [
 				{
 					name: 'Vincent Pepito',
+					affiliation: 'University of the Philippines Cebu'
+				},
+				{
+					name: 'Oscar Vian Valles',
 					affiliation: 'University of the Philippines Cebu'
 				}
 			]
