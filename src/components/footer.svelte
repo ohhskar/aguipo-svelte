@@ -4,32 +4,25 @@
 	export let currentPage: string;
 </script>
 
-{#if currentPage != '/volumes/one' && currentPage != '/archives'}
-	<section class="w-full mb-16 bg-ag-offwhite mt-64">
+{#if !currentPage.startsWith('/volumes/') && currentPage != '/archives'}
+	<section class="w-full bg-ag-offwhite mt-64 border-b border-ag-grey">
 		<div class="container py-12">
 			<h2
 				class="font-merriweather
                text-3xl text-ag-black
                mb-8"
 			>
-				Read our maiden issue
+				Read our latest issue
 			</h2>
-			<!-- <p
-				   class="text-source
-           text-sm text-ag-grey
-           mb-12"
-			     >
-				   Learn how to submit a paper and be included in the next volume of the journal
-			     </p> -->
-			<Button href="/volumes/one" variation="primary" width="w-64">Volume 1 (2022)</Button>
+			<Button href="/volumes/two" variation="primary" width="w-64">Volume 2 (2023)</Button>
 		</div>
 	</section>
 {/if}
 
 <footer
 	class="max-w-screen-lg px-8
-         mx-auto mb-16 pt-8
-         border-t border-ag-grey
+				 mt-auto
+         mx-auto py-16
          flex flex-col md:flex-row
          gap-8 md:gap-16 lg:gap-32
          "
