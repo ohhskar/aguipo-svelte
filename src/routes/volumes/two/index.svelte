@@ -13,6 +13,6 @@
 	<title>Volume Two | Aguipo Global South Journal</title>
 </svelte:head>
 
-<Header src="/images/volumes/two.jpg" alt="AGSJ Volume 1 Cover" />
+<Header src="/images/volumes/two.jpg" alt="AGSJ Volume 2 Cover" />
 <Content items={VolumeTwo} />
 <Footer file="/files/two/aguipo-volume-two.zip" />
