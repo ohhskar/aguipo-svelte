@@ -4,7 +4,7 @@
 	import { VolumeTwo } from '$src/constants/volume-two';
 
 	const volume = { link: '/volumes/two', title: 'Volume 2 (2023)' };
-	const content = VolumeTwo['Articles'][0];
+	const content = VolumeTwo['Book Review'][0];
 </script>
 
 <svelte:head>
