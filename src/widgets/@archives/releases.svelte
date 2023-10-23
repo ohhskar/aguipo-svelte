@@ -4,10 +4,6 @@
 
 	const releases = [
 		{
-			title: 'Volume 2 (2023)',
-			link: '/volumes/two'
-		},
-		{
 			title: 'Volume 1 (2022)',
 			link: '/volumes/one'
 		}
