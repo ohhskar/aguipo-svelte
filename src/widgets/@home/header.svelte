@@ -17,7 +17,7 @@
 		</h1>
 		<div class="flex flex-col md:flex-row items-start md:items-center">
 			<div class="mb-8 md:mr-8 md:mb-0">
-				<Button variation="primary-white" href="/volumes/one">Read Volume 1</Button>
+				<Button variation="primary-white" href="/volumes/two">Read Volume 2</Button>
 			</div>
 			<Button href="/submission" variation="text-white">View Submission Guidelines</Button>
 		</div>
