@@ -29,7 +29,7 @@ export const VolumeTwo: TVolume = {
 			authors: ['Ramon Guillermo'],
 			abstract:
 				'Using data from UNESCO’s Index Translationum, the present article hopes to show how inter-lingual translational relations within Southeast Asia and between Southeast Asian countries and the world have changed due to the end of the Cold War. These transformations have turned out to be most obvious in relation to the global literary capitals which have functioned to disseminate Southeast Asian literature on a global scale. The article concludes with some observations on the possible rise of Global South literary capitals as well as the development of a Global South literary canon which these imply.',
-			file: '/files/two/AGSJ202303_Liwanag.pdf',
+			file: '/files/two/AGSJ202302_Guillermo.pdf',
 			link: '/volumes/two/featured-article-two',
 			doi: 'https://doi.org/10.5281/zenodo.8412668'
 		}
