@@ -7,7 +7,7 @@ export const VolumeTwo: TVolume = {
 				'Save our Schools: 21st Century Education and the Neoliberal, Pandemic, and Authoritarian Threats',
 			authors: ['Regletto Aldrich Imbong'],
 			abstract:
-				'This is the introduction to the sectond issue of the Aguipo Global South Journal, the online open access journal of the All UP Academic Employees Union Cebu Chapter.',
+				'This is the introduction to the second volume of Aguipo Global South Journal, with the theme "Save our Schools: 21st Century Education and the Neoliberal, Pandemic, and Authoritarian Threats."',
 			file: '/files/two/AGSJ2023Introduction_Imbong.pdf',
 			link: '/volumes/two/introduction',
 			doi: 'https://doi.org/10.5281/zenodo.8313892'
@@ -53,7 +53,8 @@ With the pending policies and mindset by the Marcos Jr. administration regarding
 			title:
 				'Peirce/Marx: Speculations on Exchanges between Pragmatism and Marxism, by E. San Juan Jr.',
 			authors: ['Noe M. Santillan'],
-			abstract: '',
+			abstract:
+				"This is a book review of E. San Juan's book Peirce/Marx: Speculations on Exchanges between Pragmatism and Marxism.",
 			file: '/files/two/AGSJ202304_Santillan.pdf',
 			link: '/volumes/two/book-review-one',
 			doi: 'https://doi.org/10.5281/zenodo.8412922'
