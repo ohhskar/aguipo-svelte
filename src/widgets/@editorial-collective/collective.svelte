@@ -157,6 +157,10 @@
 				{
 					name: 'Stéphane Dufoix',
 					affiliation: 'Université Paris Nanterre; Institut Universitaire de France, France'
+				},
+				{
+					name: 'Thiti Jamkajornkeiat',
+					affiliation: 'University of Victoria, Canada'
 				}
 			]
 		}

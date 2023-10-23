@@ -2,6 +2,7 @@
 	export let variation: 'primary' | 'text' | 'primary-white' | 'text-white';
 	export let width: string = 'w-48';
 	export let href: string = '';
+	export let download: boolean | undefined = false;
 </script>
 
 {#if href !== ''}

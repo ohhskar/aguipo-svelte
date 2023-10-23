@@ -15,7 +15,7 @@
 		},
 		{
 			title: 'Current Issue',
-			link: '/volumes/one'
+			link: '/volumes/two'
 		},
 		{
 			title: 'Submissions',

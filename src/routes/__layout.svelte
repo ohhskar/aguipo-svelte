@@ -50,6 +50,8 @@
 	<meta property="og:site_name" content="Aguipo Global South Journal" />
 </svelte:head>
 
-<Navbar {currentPage} />
-<slot />
-<Footer {currentPage} />
+<div class="min-h-screen flex flex-col">
+	<Navbar {currentPage} />
+	<slot />
+	<Footer {currentPage} />
+</div>
